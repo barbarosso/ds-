@@ -1,0 +1,20 @@
+{
+  "name": "dS minus",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Waarom zou je dS Plus nemen? Want met dS Minus lees je ook alle dS Plus artikelen gratis. ",
+  "homepage_url": "http://codetaal.be",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "nl",
+  "permissions": ["https://www.standaard.be/*", "http://www.standaard.be/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.standaard.be/*", "http://www.standaard.be/*"],
+      "js": ["js/jquery/jquery.js","src/inject/inject.js"]
+    }
+  ]
+}
