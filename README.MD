@@ -6,4 +6,4 @@ Na drie minuten zoeken in de source van jullie website had ik de code al terugge
 
 En na een uurtje had ik een chrome extension die al jullie plus artikels leesbaar maakte, incluus het maken van een prachtig dsminus logo.   
 
-![screencast](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screencast ds plus to minus")
+![screencast](https://media.githubusercontent.com/media/barbarosso/ds-/master/ds-.gif "Screencast ds plus to minus")
