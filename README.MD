@@ -1,7 +1,7 @@
 ![logo](https://github.com/barbarosso/ds-/blob/master/icons/icon128.png?raw=true "logo")   
-Hey mensen van de Standaard! 
+Hey mensen van de Standaard,
 
-Wordt het geen stilaan geen tijd dat jullie iets doen aan de beveiliging van jullie paywall?   
+wordt het geen stilaan geen tijd dat jullie iets doen aan de beveiliging van jullie paywall?   
 
 Na drie minuten zoeken in de source van jullie website had ik de code al teruggevonden om de pop up te omzeilen.   
 
