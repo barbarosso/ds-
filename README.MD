@@ -1,4 +1,4 @@
-![logo](https://github.com/barbarosso/ds-/blob/master/icons/icon128.png?raw=true "logo")
+![logo](https://github.com/barbarosso/ds-/blob/master/icons/icon128.png?raw=true "logo")   
 Hey mensen van de Standaard! 
 
 Wordt het geen stilaan geen tijd dat jullie iets doen aan de beveiliging van jullie paywall?   
