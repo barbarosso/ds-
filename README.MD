@@ -7,4 +7,4 @@ Na drie minuten zoeken in de source van jullie website had ik de code al terugge
 
 En na een uurtje had ik een chrome extension die al jullie plus artikels leesbaar maakte, incluus het maken van een prachtig dsminus logo.   
 
-![screencast](https://www.dropbox.com/s/t8rsmcqzct1mmbq/ds-.gif?dl=1 "Screencast ds plus to minus")   
+![screencast](https://thumbs.gfycat.com/LavishIckyBlackandtancoonhound-size_restricted.gif "Screencast ds plus to minus")   
